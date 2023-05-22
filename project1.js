@@ -18,7 +18,6 @@ function deleteContact(name) {
   }
 }
 
-
 deleteContact("José Vargas");
 
 let deletedContactList = newContactList;
